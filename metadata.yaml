@@ -1,0 +1,45 @@
+_repo: The-Ancient-Cities-of-the-New-WorldBeing-Travels-and-Explorations-in-Mexico-and-Central-Ameri__45656
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Conant, Helen S. (Helen Stevens)
+    birthdate: 1839
+    deathdate: 1899
+    gutenberg_agent_id: '42841'
+    url: http://www.gutenberg.org/2009/agents/42841
+  - agent_name: Gonino, J.
+    gutenberg_agent_id: '42910'
+    url: http://www.gutenberg.org/2009/agents/42910
+covers:
+- cover_type: archival
+  image_path: 45656-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Charnay, Désiré
+    aliases:
+    - Charnay, Desire
+    - Charnay, Claude-Joseph-Désiré
+    birthdate: 1828
+    deathdate: 1915
+    gutenberg_agent_id: '5013'
+    url: http://www.gutenberg.org/2009/agents/5013
+    wikipedia: http://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Charnay
+description: ''
+gutenberg_issued: '2014-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guatemala -- Antiquities'
+- !lcsh 'Indians of Central America -- Guatemala -- Antiquities'
+- !lcsh 'Mexico -- Antiquities'
+- !lcc 'F1201'
+- !lcsh 'Indians of Mexico -- Antiquities'
+title: 'The Ancient Cities of the New World
+
+  Being Travels and Explorations in Mexico and Central America From 1857-1882'
+url: http://www.gutenberg.org/ebooks/45656
