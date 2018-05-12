@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5013
     wikipedia: http://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Charnay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45656#The-Ancient-Cities-of-the-New-WorldBeing-Travels-and-Explorations-in-Mexico-and-Central-Ameri_
 gutenberg_issued: '2014-05-15'
 gutenberg_type: Text
 identifiers:
